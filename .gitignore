@@ -160,9 +160,13 @@ cython_debug/
 #.idea/
 
 archived models/
+archived data/
+archive other/
 data/
 example/
 discourse figs/
 model_characterisation/
 *.exe
 *.xlsx
+b_spline stuff/
+figures/
